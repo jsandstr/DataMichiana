@@ -23,6 +23,7 @@
  
  **median_rents.py** -- creates line graph of 2 mile radius ND median gross rent, South Bend median gross rent, and inflation line
  
+ 
  ## Visualizations
  
  Each Visualization is named after their respective code
