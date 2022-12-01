@@ -1,5 +1,7 @@
 ﻿# DataMichiana
  
+ This DataMichiana CSE Service Project focuses on the analyzing the immediate South Bend rental housing market surrounding Notre Dame
+ 
  ## Data
  
  **NDXXXX.csv** -- CSVs of ND Block Groups and their respective median gross rent
